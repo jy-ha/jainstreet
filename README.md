@@ -76,4 +76,4 @@ https://www.kaggle.com/c/jane-street-market-prediction
 <h2>Limitation</h2>
 
 본 모델은 주어진 한 시점의 Feature들을 활용하기에 연속된 시계열 데이터의 이점을 살리지 못 합니다.
-해당 한계를 극복하기 위해 LSTM과 같은 RNN블럭 도입, Time-encoded Transformer 등을 고려해볼 수 있습니다.
+해당 한계를 극복하기 위해 LSTM과 같은 RNN블럭 도입, Temporal Fusion Transformer 등을 고려해볼 수 있습니다.
